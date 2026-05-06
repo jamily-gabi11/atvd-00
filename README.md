@@ -1,1 +1,1 @@
-Esta atividade é feita ao seguir um roteiro... deverá ser entregue amanhã. 1 alteração, 2 alteração, 3 alteração. Tela de login, 2 alteração da feat-02, 3 alteração da feat-02. Tela de cadastro, 2 alteração da feat-03
+Esta atividade é feita ao seguir um roteiro... deverá ser entregue amanhã. 1 alteração, 2 alteração, 3 alteração. Tela de login, 2 alteração da feat-02, 3 alteração da feat-02. Tela de cadastro, 2 alteração da feat-03, 3 alteração da feat-03.
